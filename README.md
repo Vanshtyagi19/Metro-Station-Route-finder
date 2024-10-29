@@ -112,5 +112,5 @@ Total Balance: 700
 - Integrate a graphical user interface (GUI).
 
 
-If you have any questions or need further details, feel free to contact me at: [vasutyagi2003@gmail.com@gmail.com]
+If you have any questions or need further details, feel free to contact me at: [vasutyagi2003@gmail.com]
 
